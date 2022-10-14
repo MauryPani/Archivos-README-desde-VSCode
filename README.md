@@ -21,7 +21,9 @@ Les mostraré una forma sencilla en la que pueden documentar prácticas desde VS
 
 1. Desde tu VS Code abrirás una carpeta donde desees guardar tus archivos.
 
+
 ![](Pictures/Picture3.png)
+
 
 En esta carpeta crearás un archivo llamdo:
 
@@ -32,9 +34,12 @@ Te recomeindo mucho descargar la extención:
 
     Markdownlint
 
+
 ![](Pictures/Picture4.png)
 
+
 Con esto podrás acceder a una vista previa de lo que estes haciendo desntro de tu archivo README.
+
 
 ![](Pictures/Picture2.png)
 
@@ -78,10 +83,12 @@ Dale un nombre y si gustas también puedes darle una descripción.
 
 
 **Nota:** Puedes crear un archivo README desde GitHub y editarlo desde ahí también.
+
+
 ![](Pictures/Picture10.png)
 
 
-Deja los demas valores en predeterminado y crea el repositorio.
+Deja los demás valores en predeterminado y crea el repositorio.
 Cuando finalize te mostrará una página como la siguiente:
 
 
@@ -90,12 +97,13 @@ Cuando finalize te mostrará una página como la siguiente:
 
 Aquí tenemos varias formas de agregar un archivo README pero nostros unaremos la primera que es mediante comandos en la terminal de VS Code.
 
-1. Abre una nueva terminal y copea los comandos 1 por 1 que te proporciona Github GitHub.
-*Nota:* Para esta parte es importante que tengas [Git](https://git-scm.com/downloads) instalado.
+1. Abre una nueva terminal y copea los comandos 1 por 1 que te proporciona Github
+
+**Nota:** Para esta parte es importante que tengas [Git](https://git-scm.com/downloads) instalado.
 
 Puedes utilizar el siguiente comando para agregar todos los archivos que tengas dentro de la carpeta.
    
-   git add .
+     git add .
 
 Esta funsión también añade archivos con código.
 
