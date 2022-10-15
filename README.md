@@ -54,23 +54,25 @@ Con esto podrás acceder a una vista previa de lo que estes haciendo desntro de 
 
 
 Para añadir letra cursiva a alguna palabra o texto usa * antes de comenzar y al terminar una frase, palabra o texto.
+
 Siquieres añadir negrita para resaltar algo usa el doble ** al principio y final.
+
 Para añadir una imagen te recomeindo crear una carpeta donde tienes tu archivo README y guarda las imagenes dentro de la misma.
 
 
 ![](Pictures/Picture1.png)
 
 
-Para subir la imagen escribe el coemndo siguiente:
+Para subir la imagen escribe el comando siguiente:
 
 
 ![](Pictures/Picture7.png)
 
 
-Dentro de los parentesis vas a copiar la ruta de acceso relativade la imagen, esta la obtienes dando clic derecho a la imagen que desees usar y ahí encontraras una lista de funciones, busca la anterior mensionada. Es importante que cambies la barra ( \ ) por ( / ) para que se puedan visualizar en GitHub. El formato de imagen debe ser PNG.
+Dentro de los paréntesis vas a copiar la ruta de acceso relativa de la imagen, esta la obtienes dando clic derecho a la imagen que desees usar y ahí encontraras una lista de funciones, busca la anterior mensionada. Es importante que cambies la barra ( \ ) por ( / ) para que se puedan visualizar en GitHub. El formato de imagen debe ser PNG.
 
 
-2. Euna vez termindado tu archivo ingresa a tu perfil de GitHub y busca tus repositorios y crea uno nuevo.
+2. Euna vez termindado tu archivo ingresa a tu perfil de GitHub busca tus repositorios y crea uno nuevo.
 
 
 ![](Pictures/Picture8.png)
