@@ -43,6 +43,8 @@ Con esto podrás acceder a una vista previa de lo que estes haciendo desntro de 
 
 ![](Pictures/Picture2.png)
 
+-------------------------------------------
+
 
 - Tips:
 
@@ -70,6 +72,8 @@ Para subir la imagen escribe el comando siguiente:
 
 
 Dentro de los paréntesis vas a copiar la ruta de acceso relativa de la imagen, esta la obtienes dando clic derecho a la imagen que desees usar y ahí encontraras una lista de funciones, busca la anterior mensionada. Es importante que cambies la barra ( \ ) por ( / ) para que se puedan visualizar en GitHub. El formato de imagen debe ser PNG.
+
+-------------------------------------------
 
 
 2. Euna vez termindado tu archivo ingresa a tu perfil de GitHub busca tus repositorios y crea uno nuevo.
@@ -99,11 +103,11 @@ Cuando finalize te mostrará una página como la siguiente:
 
 Aquí tenemos varias formas de agregar un archivo README pero nostros unaremos la primera que es mediante comandos en la terminal de VS Code.
 
-1. Abre una nueva terminal y copea los comandos 1 por 1 que te proporciona Github
+1. Abre una nueva terminal en tu VS Code donde esta tu archivo README y copea los comandos 1 por 1 que te proporciona Github.
 
 **Nota:** Para esta parte es importante que tengas [Git](https://git-scm.com/downloads) instalado.
 
-Puedes utilizar el siguiente comando para agregar todos los archivos que tengas dentro de la carpeta.
+Si quieres agregar todos los archivos que tengas dentro de una carpeta puedes utilizar el siguiente comando.
    
      git add .
 
