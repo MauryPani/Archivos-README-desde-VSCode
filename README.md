@@ -17,7 +17,7 @@ Les mostraré una forma sencilla en la que pueden documentar prácticas desde VS
 ---------------------------------------
 
 
-### Subir un README desde VS Code a un repositorio ded GitHub.
+### Subir un README desde VS Code a un repositorio de GitHub.
 
 1. Desde tu VS Code abrirás una carpeta donde desees guardar tus archivos.
 
