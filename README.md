@@ -76,7 +76,7 @@ Dentro de los paréntesis vas a copiar la ruta de acceso relativa de la imagen, 
 -------------------------------------------
 
 
-2. Euna vez termindado tu archivo ingresa a tu perfil de GitHub busca tus repositorios y crea uno nuevo.
+2. Ena vez hayas termindado tu archivo ingresa a tu perfil de GitHub busca tus repositorios y crea uno nuevo.
 
 
 ![](Pictures/Picture8.png)
