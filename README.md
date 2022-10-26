@@ -55,6 +55,8 @@ Con esto podrás acceder a una vista previa de lo que estes haciendo desntro de 
 ![](Pictures/Picture6.png)
 
 
+
+
 Para añadir letra cursiva a alguna palabra o texto usa * antes de comenzar y al terminar una frase, palabra o texto.
 
 Siquieres añadir negrita para resaltar algo usa el doble ** al principio y final.
@@ -63,6 +65,8 @@ Para añadir una imagen te recomeindo crear una carpeta donde tienes tu archivo 
 
 
 ![](Pictures/Picture1.png)
+
+
 
 
 Para subir la imagen escribe el comando siguiente:
@@ -79,26 +83,38 @@ Dentro de los paréntesis vas a copiar la ruta de acceso relativa de la imagen, 
 2. Una vez hayas termindado tu archivo ingresa a tu perfil de GitHub busca tus repositorios y crea uno nuevo.
 
 
+
 ![](Pictures/Picture8.png)
+
+
 
 
 Dale un nombre y si gustas también puedes darle una descripción.
 
 
+
 ![](Pictures/Picture9.png)
+
+
 
 
 **Nota:** Puedes crear un archivo README desde GitHub y editarlo desde ahí también.
 
 
+
 ![](Pictures/Picture10.png)
+
+
 
 
 Deja los demás valores en predeterminado y crea el repositorio.
 Cuando finalize te mostrará una página como la siguiente:
 
 
+
 ![](Pictures/Picture11.png)
+
+
 
 
 Aquí tenemos varias formas de agregar un archivo README pero nostros unaremos la primera que es mediante comandos en la terminal de VS Code.
