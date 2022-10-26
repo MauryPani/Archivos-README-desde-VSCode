@@ -55,7 +55,7 @@ Con esto podrás acceder a una vista previa de lo que estes haciendo desntro de 
 ![](Pictures/Picture6.png)
 
 
-
+------------------------------------------
 
 Para añadir letra cursiva a alguna palabra o texto usa * antes de comenzar y al terminar una frase, palabra o texto.
 
@@ -87,7 +87,7 @@ Dentro de los paréntesis vas a copiar la ruta de acceso relativa de la imagen, 
 ![](Pictures/Picture8.png)
 
 
-
+-------------------------------------------
 
 Dale un nombre y si gustas también puedes darle una descripción.
 
@@ -96,7 +96,7 @@ Dale un nombre y si gustas también puedes darle una descripción.
 ![](Pictures/Picture9.png)
 
 
-
+-------------------------------------------
 
 **Nota:** Puedes crear un archivo README desde GitHub y editarlo desde ahí también.
 
@@ -105,7 +105,7 @@ Dale un nombre y si gustas también puedes darle una descripción.
 ![](Pictures/Picture10.png)
 
 
-
+------------------------------------------
 
 Deja los demás valores en predeterminado y crea el repositorio.
 Cuando finalize te mostrará una página como la siguiente:
@@ -115,7 +115,7 @@ Cuando finalize te mostrará una página como la siguiente:
 ![](Pictures/Picture11.png)
 
 
-
+------------------------------------------
 
 Aquí tenemos varias formas de agregar un archivo README pero nostros unaremos la primera que es mediante comandos en la terminal de VS Code.
 
